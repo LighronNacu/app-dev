@@ -13,14 +13,5 @@ The story takes place in the fantasy city of Orario where adventurers explore th
 ## Quotes
 - *"A hero can only rise by overcoming hardships."*
 
-### Table of Seasons
-
-| Season | Release Year | Episodes |
-|--------|--------------|----------|
-| Season 1 | 2015 | 13 |
-| Season 2 | 2019 | 12 |
-| Season 3 | 2020 | 12 |
-| Season 4 | 2022 | 13 |
-
 ### Final Thoughts
 *Danmachi* is a thrilling and heartwarming anime that mixes fantasy, adventure and humor in an exciting world where anything can happen!
